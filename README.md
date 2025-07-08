@@ -13,4 +13,4 @@
   - [Paper Link](https://arxiv.org/abs/1706.03762) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Transformer-Attention-Is-All-You-Need-228ab43529d9801ca912da8d7aa52e77?source=copy_link) | [Summary](https://github.com/gagyeomkim/Deep-Learning-Paper-Review-and-Practice/blob/main/summary_pdf/2025-07-05-Transformer.pdf)  |[Code Practice]()
 
 **Ref**
-- 모든 Summary 자료는 직접 작성하였으며, 사용된 설명 및 사진은 [딥러닝 파이토치 교과서](https://wikidocs.net/book/2788)의 공개 내용을 참고하였음을 밝힙니다.
+- 모든 Summary 자료는 직접 작성하였으며, 사용된 설명 및 사진의 원 출처는 위키독스의 [딥러닝 파이토치 교과서](https://wikidocs.net/book/2788)의 공개 내용을 참고하였음을 밝힙니다.
