@@ -1,9 +1,6 @@
 ## 딥러닝 논문 리뷰 &amp; 코드 실습: Deep-Learning-Paper-Review-and-Practice
 - 딥러닝 논문 리뷰 및 코드 실습을 진행한 저장소입니다.
 
-**Ref**
-- 대부분의 SUMMARY자료에 사용된 설명 및 사진은 [딥러닝 파이토치 교과서](https://wikidocs.net/book/2788)의 공개 내용이 포함되어있습니다.
-
 **Natural Language Processing (자연어 처리)**
 
 - [Seq2Seq] Sequence to Sequence Learning with Neural Networks (2014)
@@ -14,3 +11,6 @@
  
 - [Transformer] Attention Is All You Need(2017)
   - [Paper Link](https://arxiv.org/abs/1706.03762) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Transformer-Attention-Is-All-You-Need-228ab43529d9801ca912da8d7aa52e77?source=copy_link) | [Summary](https://github.com/gagyeomkim/Deep-Learning-Paper-Review-and-Practice/blob/main/summary_pdf/2025-07-05-Transformer.pdf)  |[Code Practice]()
+
+**Ref**
+- 대부분의 Summary 자료에 사용된 설명 및 사진은 [딥러닝 파이토치 교과서](https://wikidocs.net/book/2788)의 공개 내용이 포함되어있습니다.
