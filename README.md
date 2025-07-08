@@ -1,7 +1,14 @@
 ## 딥러닝 논문 리뷰 &amp; 코드 실습: Deep-Learning-Paper-Review-and-Practice
 - 딥러닝 논문 리뷰 및 코드 실습을 진행한 저장소입니다.
 
+**Computer Vision(컴퓨터비전)**
+
+- [GoogLeNet] Going deeper with convolutions (2014)
+  - [Paper Link](https://arxiv.org/abs/1409.4842) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/GoogleNet-Going-deeper-with-convolutions-1a5ab43529d980cf904fc72b9b4b11c8?source=copy_link) | [Summary] | [Code Practice](code_practice/GoogLeNet.ipynb)
+
 **Natural Language Processing (자연어 처리)**
+- [Word2Vec1] Efficient Estimation of Word Representations in Vector Space (2013)
+  - [Paper Link](https://arxiv.org/abs/1301.3781) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Word2Vec-1-Efficient-Estimation-of-Word-Representations-in-Vector-Space-20aab43529d98061ab00edd5a863a81d?source=copy_link) | [Summary] | [Code Practice]
 
 - [Seq2Seq] Sequence to Sequence Learning with Neural Networks (2014)
   - [Paper Link](https://arxiv.org/abs/1409.3215) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Seq2Seq-Sequence-to-Sequence-Learning-with-Neural-Networks-229ab43529d9807ea187f49b4f733012?source=copy_link) |[Summary](summary_pdf/2025-07-03-Sequence‑to‑Sequence.pdf)| [Code Practice](code_practice/Sequence_to_Sequence_with_LSTM.ipynb)
