@@ -8,7 +8,7 @@
 
 - [Attention] Neural Machine Translation by Jointly Learning to Align and Translate(2014)
   - [Paper Link](https://arxiv.org/abs/1409.0473) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Attention-Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate-229ab43529d980ae9800ff2f150c21b3?source=copy_link) | [Summary](https://github.com/gagyeomkim/Deep-Learning-Paper-Review-and-Practice/blob/main/summary_pdf/2025-07-04-Attention%20Mechanism.pdf) | [Code Practice]()
- 
+
 - [Transformer] Attention Is All You Need(2017)
   - [Paper Link](https://arxiv.org/abs/1706.03762) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Transformer-Attention-Is-All-You-Need-228ab43529d9801ca912da8d7aa52e77?source=copy_link) | [Summary](https://github.com/gagyeomkim/Deep-Learning-Paper-Review-and-Practice/blob/main/summary_pdf/2025-07-05-Transformer.pdf)  |[Code Practice]()
 
