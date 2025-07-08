@@ -2,7 +2,7 @@
 - 딥러닝 논문 리뷰 및 코드 실습을 진행한 저장소입니다.
 
 **Ref**
-- 대부분의 SUMMARY자료에 사용된 설명 및 사진은 [딥러닝 파이토치 교과서](https://wikidocs.net/book/2788)의 공개 내용만을 다루었습니다.
+- 대부분의 SUMMARY자료에 사용된 설명 및 사진은 [딥러닝 파이토치 교과서](https://wikidocs.net/book/2788)의 공개 내용이 포함되어있습니다.
 
 **Natural Language Processing (자연어 처리)**
 
