@@ -19,7 +19,7 @@
   - [Paper Link](https://arxiv.org/abs/1409.3215) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Seq2Seq-Sequence-to-Sequence-Learning-with-Neural-Networks-229ab43529d9807ea187f49b4f733012?source=copy_link) |[Summary](summary_pdf/2025-07-03-Sequence‑to‑Sequence.pdf)| [Code Practice](code_practice/Sequence_to_Sequence_with_GRU.ipynb)
 
 - [Attention] Neural Machine Translation by Jointly Learning to Align and Translate(2014)
-  - [Paper Link](https://arxiv.org/abs/1409.0473) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Attention-Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate-229ab43529d980ae9800ff2f150c21b3?source=copy_link) | [Summary](summary_pdf/2025-07-04-Attention-Mechanism.pdf) | [Code Practice]()
+  - [Paper Link](https://arxiv.org/abs/1409.0473) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Attention-Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate-229ab43529d980ae9800ff2f150c21b3?source=copy_link) | [Summary](summary_pdf/2025-07-04-Attention-Mechanism.pdf) | [Code Practice](code_practice/Sequence_to_Sequence_with_Attention.ipynb)
 
 - [Transformer] Attention Is All You Need(2017)
   - [Paper Link](https://arxiv.org/abs/1706.03762) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Transformer-Attention-Is-All-You-Need-228ab43529d9801ca912da8d7aa52e77?source=copy_link) | [Summary](summary_pdf/2025-07-05-Transformer.pdf)  |[Code Practice]()
