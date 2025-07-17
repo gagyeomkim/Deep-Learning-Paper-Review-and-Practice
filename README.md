@@ -25,7 +25,7 @@
   - [Paper Link](https://arxiv.org/abs/1706.03762) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Transformer-Attention-Is-All-You-Need-228ab43529d9801ca912da8d7aa52e77?source=copy_link) | [Summary](summary_pdf/2025-07-05-Transformer.pdf)  | [Code Practice](code_practice/Transformer.ipynb)
 
 - [BERT] Pre-training of Deep Bidirectional Transformers for Language Understanding(NAACL 2019)
-  - [Paper Link](https://arxiv.org/abs/1706.03762) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-232ab43529d980439acefd1c4b1c1f3c?source=copy_link) | [Summary]  | [Code Practice]
+  - [Paper Link](https://arxiv.org/abs/1810.04805) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-232ab43529d980439acefd1c4b1c1f3c?source=copy_link) | [Summary]  | [Code Practice]
 
 **Ref**
 - 모든 Summary 자료는 직접 작성하였으며, 사용된 설명 및 사진의 원 출처는 [딥러닝 파이토치 교과서](https://wikidocs.net/book/2788)의 공개 내용임을 밝힙니다.
