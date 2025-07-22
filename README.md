@@ -13,7 +13,7 @@
   - [Paper Link](https://arxiv.org/abs/1301.3781) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Word2Vec-1-Efficient-Estimation-of-Word-Representations-in-Vector-Space-20aab43529d98061ab00edd5a863a81d?source=copy_link) | [Summary] | [Code Practice](code_practice/Word2Vec1.ipynb)
  
 - [Word2Vec2] Distributed Representations of Words and Phrases and their Compositionality (2013)
-  - [Paper Link](https://arxiv.org/abs/1310.4546) | [Paper Review] | [Summary] | [Code Practice](code_practice/Word2Vec2.ipynb)
+  - [Paper Link](https://arxiv.org/abs/1310.4546) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Word2Vec-2-Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality-229ab43529d9802792fec9d34f4d4b75?source=copy_link) | [Summary] | [Code Practice](code_practice/Word2Vec2.ipynb)
 
 - [Seq2Seq] Sequence to Sequence Learning with Neural Networks (2014)
   - [Paper Link](https://arxiv.org/abs/1409.3215) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/Seq2Seq-Sequence-to-Sequence-Learning-with-Neural-Networks-229ab43529d9807ea187f49b4f733012?source=copy_link) |[Summary](summary_pdf/2025-07-03-Sequence‑to‑Sequence.pdf)| [Code Practice](code_practice/Sequence_to_Sequence_with_GRU.ipynb)
