@@ -4,7 +4,7 @@
 ### **Computer Vision(컴퓨터비전)**
 
 - [GoogLeNet] Going deeper with convolutions (2014)
-  - [Paper Link](https://arxiv.org/abs/1409.4842) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/GoogleNet-Going-deeper-with-convolutions-1a5ab43529d980cf904fc72b9b4b11c8?source=copy_link) | [Summary] | [Code Practice](code_practice/GoogLeNet.ipynb)
+  - [Paper Link](https://arxiv.org/abs/1409.4842) | [Paper Review](https://deep-learning-paper-review-and-practice.notion.site/GoogleNet-Going-deeper-with-convolutions-1a5ab43529d980cf904fc72b9b4b11c8?source=copy_link) | [Summary] | [Code Practice](code_practice/GoogLeNet/GoogLeNet.ipynb)
 
 
 
